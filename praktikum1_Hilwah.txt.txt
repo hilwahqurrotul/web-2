@@ -1,0 +1,32 @@
+Nama   : Hilwah Qurrotul Aini
+NIM    : 0110124057
+Rombel : SI06
+
+1. Jelaskan apa yang dimaksud dengan dokumen root ?  
+2. Pada apache web server, apakah dokumen root harus terletak dalam direktori 
+   C:\xampp\htdocs ? Jelaskan jawaban anda 
+3. Jelaskan apa yang dimaksud dengan perintah git : init, clone, remote,  add, commit, push 
+   dan checkout 
+4. Jelaskan perbedaan antara GitHub dan GitLab 
+5. Apa bedanya variable user dengan variable system ? 
+6. Apa persamaan variable system dengan variable constant ? 
+
+Jawaban!
+
+1. Dokumen root adalah folder atau direktori utama yang berfungsi sebagai penyimpanan utama situs web disimpan
+
+2. Dokumen root pada Apache Web Server tidak harus selalu terletak di C:\xampp\htdocs bisa diubah sesuai dengan kebutuhan
+
+3. - git init ialah untuk membuat repository pada file lokal yang nantinya ada folder .git
+   - git clone ialah untuk membuat salinan repository yang sudah ada ke dalam komputer lokal
+   - git remote ialah untuk menghubungkan repository lokal ke repository remote atau jarak jauh (misalnya di GitHub, GitLab, atau Bitbucket).
+   - git add ialah untuk menambahkan file baru pada repository yang dipilih
+   - git commit ialah untuk menyimpan perubahan yang dilakukan, tetapi tidak ada perubahan pada remote repository.
+   - git push ialah untuk mengirimkan perubahan file setelah di commit ke remote repository.
+   - git checkout ialah untuk menukar branch yang aktif dengan branch yang dipilih
+
+4. GitHub dan GitLab adalah platfrom berbasis git yang digunakan untuk mengembangkan perangkat lunak, tetapi perbedaannya ialah GitHub dimiliki oleh Microsoft dan open source jika ingin lebih aman harus berbayar dan lebih populer, sedangkan GitLab dimiliki oleh GitLab Inc dan berbasis self hosting keamanan GitLab lebih kuat dan kurang populer tetapi banyak dipakai di perusahaan yang butuh DevOps lengkap.
+
+5. Variabel user adalah nilai atau variabel yang disimpan dalam sistem operasi untuk digunakan untuk satu pengguna yang sedang login dan disimpan di akun pengguna dan hanya bisa diubah oleh user itu sendiri,sedangkan variabel system adalah variabel yang dibagikan untuk semua pengguna dan disimpan dalam pengaturan sistem operasi yang menjadikan semua akun bisa menggunakan dan yang bisa mengubahnya hanya admin sistem
+
+6. Variabel system dan variabel constant memiliki persamaan yaitu sama sama menyimpan nilai yang digunakan oleh seluruh sistem dan semua pengguna dalam sebuah program, bisa digunakan di banyak tempat jika variabel system bisa dipakai oleh banyak aplikasi dalam komputer dan variabel constant bisa dipakai dibanyak bagian dalam program, membantu menjaga aturan dan konsistensi
